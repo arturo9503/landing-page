@@ -111,6 +111,48 @@ h2{
     margin-right: auto;
 }
 
+.container-call-to-action{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 50px;;
+    margin-bottom: 50px;
+    color: white;
+    background-color: #3882f6;
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px;
+}
+
+.action{
+    font-weight: bold;
+}
+
+.action-button{
+    border-color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.footer-text{
+    color: white;
+    background-color: #1f2937;
+    padding:10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
 
 
 
